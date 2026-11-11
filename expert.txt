@@ -1,0 +1,10 @@
+8 18
+MMMMMMMMMMMMMMMMMM
+M  F  P   Q  S  F M
+M     F  S   F    M
+M   F    S     F  M
+M  S   Q        F M
+M     F  S  F     M
+M  F   S   F   F  M
+MMMMMMMMMMMMMMMMMM
+

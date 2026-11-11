@@ -1,0 +1,7 @@
+5 10
+MMMMMMMMMM
+M   F  P M
+M     Q SM
+M   F    M
+MMMMMMMMMM
+

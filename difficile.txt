@@ -1,0 +1,9 @@
+7 15
+MMMMMMMMMMMMMMM
+M   F   P   Q M
+M  F      S   M
+M       F     M
+M     S       M
+M  F    S   F M
+MMMMMMMMMMMMMMM
+
